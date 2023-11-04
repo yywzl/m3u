@@ -64,8 +64,8 @@ K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
 芝加哥直播源2,http://23.237.100.82:8000/PENTHOUSE/index.m3u8
 芝加哥直播源3,http://23.237.100.82:8000/BRAZZERS/index.m3u8
 芝加哥直播源4,http://23.237.100.82:8000/HUSTLER/index.m3u8
-芝加哥直播源4,http://62.176.77.22:9781/play/a00m
-芝加哥直播源4,http://62.176.77.22:9781/play/a00n
+芝加哥直播源9,http://62.176.77.22:9781/play/a00m
+芝加哥直播源10,http://62.176.77.22:9781/play/a00n
 芝加哥直播源5,http://94.53.216.13:9981/stream/channelid/873933469
 芝加哥直播源6,http://94.53.216.13:9981/stream/channelid/1412100237
 芝加哥直播源7,http://94.53.216.13:9981/stream/channelid/1170071920
