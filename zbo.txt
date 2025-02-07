@@ -55,18 +55,6 @@ HOT欧美版,http://live.redtraffic.xyz:80/pov.m3u8
 午夜9,http://live.redtraffic.xyz:80/milf.m3u8
 午夜9,http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
 午夜10,http://live.redtraffic.xyz:80/cuckold.m3u8
-芝加哥直播,#genre#
-芝加哥直播源1,http://23.237.100.82:8000/PLAYBOY/index.m3u8
-芝加哥直播源2,http://23.237.100.82:8000/PENTHOUSE/index.m3u8
-芝加哥直播源3,http://23.237.100.82:8000/BRAZZERS/index.m3u8
-芝加哥直播源4,http://23.237.100.82:8000/HUSTLER/index.m3u8
-芝加哥直播源9,http://62.176.77.22:9781/play/a00m
-芝加哥直播源10,http://62.176.77.22:9781/play/a00n
-芝加哥直播源5,http://94.53.216.13:9981/stream/channelid/873933469
-芝加哥直播源6,http://94.53.216.13:9981/stream/channelid/1412100237
-芝加哥直播源7,http://94.53.216.13:9981/stream/channelid/1170071920
-芝加哥直播源8,http://94.53.216.13:9981/stream/channelid/918852680
-芝加哥直播源🔞,http://94.229.250.73:8008/play/a002
 其他,#genre#
 livecams,http://cdn.adultiptv.net/livecams.m3u8
 MILF,http://cdn.adultiptv.net/milf.m3u8
